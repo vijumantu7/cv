@@ -1,7 +1,13 @@
+
+*{
+  margin:auto;
+  line-height: 50px;
+}
+
 body{
 
   text-align: center;
-margin: auto;
+
 }
 .top-container{
   text-align: center;
